@@ -1,0 +1,14 @@
+*.image
+*.bin
+*.log
+*_log.txt
+*_stdout.txt
+*_rom
+*_nvram
+*_ssa
+*_iomem
+*_slot[0-9]*
+*_bootflash
+project-files/captures/
+project-files/vmware/
+project-files/qemu/
